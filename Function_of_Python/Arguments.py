@@ -21,4 +21,4 @@ def avg(*number):
   return sum/len(number)
 
 c = avg(3,4,5,8,9)
-print("Average is =",c)
+print("The Average is =",c)
